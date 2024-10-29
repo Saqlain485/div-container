@@ -1,0 +1,62 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-contaier{
+    display: flex;
+    background-color: aqua;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.con-1{
+    background-color: blue;
+    display: flex;
+    height: 15vh;
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+}
+.con-2{
+    background-color: blue;
+    display: flex;
+    height: 60vh;
+    width: 50vw;
+}
+.con2-1{
+    background-color: green;
+    display: flex;
+    height: 60vh;
+    width: 20vw;
+    justify-content: center;
+    align-items: center;
+
+}
+.con2-2{
+    background-color: yellow;
+    display: flex;
+    height: 60vh;
+    width: 60vw;
+    justify-content: center;
+    align-items: center;
+
+}
+.con2-3{
+    background-color: red;
+    display: flex;
+    height: 60vh;
+    width: 20vw;
+    justify-content: center;
+    align-items: center;
+
+}
+.con-3{
+    background-color: brown;
+    display: flex;
+    height: 15vh;
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+}

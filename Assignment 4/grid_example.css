@@ -1,0 +1,49 @@
+body{
+    height: 95vh;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    gap: 10px;
+    color: white;
+    font-size: 2em;
+}
+
+
+header {
+    background-color: green;
+    text-align: center;
+    padding: 2em;
+    display: flex;
+}
+main
+{
+    background-color: rgb(15, 0, 128);
+    text-align: center;
+    padding: 2em;
+}
+footer{
+  background-color: rgb(185, 47, 47);
+  text-align: center;
+  padding: 2em;
+}
+.header-con{
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.hc-1{
+    background-color: blueviolet;
+    width: 20%;
+    height: 40vh;
+}
+.hc-2{
+    background-color: lightcoral;
+    width: 20%;
+    height: 40vh;
+}
+.hc-3{
+    background-color: lawngreen;
+    width: 20%;
+    height: 40vh;
+}

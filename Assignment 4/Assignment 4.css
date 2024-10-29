@@ -1,0 +1,33 @@
+.box{
+     border:solid 2px black ; 
+     padding-top: 15px; 
+     padding-bottom: 15px;
+     margin: px; 
+     width:70px;
+     height: 30px;
+     text-align: center;
+     background-color: blueviolet;
+     font-weight: bold;
+     font-size: 20px;
+     /* align-items: center; */
+     /* justify-content: center; */
+
+}
+.flex-container
+{
+     display:flex; 
+    flex-flow: row wrap;
+     justify-content: center;
+     align-items: center;
+ 
+    /* flex-direction: row; */
+    /* border: solid 3px black; */
+    
+}
+.new
+{
+    text-align: center;
+    color: green;
+}
+
+
